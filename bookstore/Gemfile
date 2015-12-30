@@ -45,3 +45,5 @@ group :development do
   gem 'spring'
 end
 
+# Using ActiveAdmin
+gem 'activeadmin', github: 'gregbell/active_admin'
